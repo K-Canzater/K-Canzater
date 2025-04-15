@@ -1,35 +1,33 @@
-# 👋 Hi, I'm KCanzater!
-
+👋 Hi, I'm **KCanzater**!  
 I'm a **Cloud Infrastructure Engineer** passionate about building reliable, scalable, and automated cloud environments. My focus is on creating clean, production-ready infrastructure using tools like **Terraform**, **AWS**, **GitHub Actions**, and **Boto3**.
 
 ---
 
-### 🚀 My Favorite Projects
+🚀 **My Favorite Projects**
 
-- 🔧 [**AWS Infrastructure Automation**](https://github.com/K-Canzater/AWS-Infrastructure-Automation-with-Terraform-GitHub-Actions-Boto3)  
+- 🔧 **[AWS Infrastructure Automation](https://github.com/K-Canzater/AWS-Infrastructure-Automation-with-Terraform-GitHub-Actions-Boto3)**  
   End-to-end AWS automation using Terraform, GitHub Actions, and Boto3. Includes VPC, EC2, IAM, S3, and automation scripts for managing infrastructure.
 
-- 🌐 [**Portfolio Website**](https://k-canzater.github.io/KCanzater/index.html)  
+- 🌐 **[Portfolio Website](https://k-canzater.github.io/KCanzater/index.html)**  
   My personal portfolio hosted via GitHub Pages. Simple, clean, and focused on showcasing cloud projects.
 
-- 🛠️ [**AWS VPC Automation**](https://github.com/K-Canzater/AWS-VPC-Automation)  
+- 🛠️ **[AWS VPC Automation](https://github.com/K-Canzater/AWS-VPC-Automatio)**  
   VPC setup using Terraform including subnets, route tables, internet gateway, and more.
 
 ---
 
-### 🔧 Technologies I Work With
+🔧 **Technologies I Work With**
 
-- **Cloud**: AWS (EC2, S3, IAM, VPC, CloudFront)
-- **IaC**: Terraform
-- **Automation**: GitHub Actions, Boto3
-- **Languages**: Python, HCL
-- **Tools**: Git, GitHub, AWS CLI, SSM
+- **Cloud**: AWS (EC2, S3, IAM, VPC, CloudFront)  
+- **IaC**: Terraform  
+- **Automation**: GitHub Actions, Boto3  
+- **Languages**: Python, HCL  
+- **Tools**: Git, GitHub, AWS CLI, SSM  
 
 ---
 
-## 🤝 Let's Connect
+🤝 **Let's Connect**
 
-- 💼 [Portfolio](https://k-canzater.github.io/KCanzater/index.html)
-- 📫 Email: [khayla.canzater@gmail.com](mailto:khayla.canzater@gmail.com)
-- 💬 Open to cloud infrastructure opportunities!
-
+- 💼 [**Portfolio**](https://k-canzater.github.io/KCanzater/index.html)  
+- 📫 Email: [khayla.canzater@gmail.com](mailto:khayla.canzater@gmail.com)  
+- 💬 Open to **Cloud Infrastructure opportunities** — let's build something awesome!
