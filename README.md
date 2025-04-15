@@ -30,6 +30,6 @@ I'm a **Cloud Infrastructure Engineer** passionate about building reliable, scal
 ### 📫 Let's Connect
 
 - 💼 [Portfolio](https://k-canzater.github.io/KCanzater/index.html)
-- 📧 Email: [khayla.canzater@gmail.com](mailto:khayla.canzater@gmail.com)
+- 📫 Email: [khayla.canzater@gmail.com](mailto:khayla.canzater@gmail.com)
 - 💬 Open to cloud infrastructure opportunities!
 
