@@ -11,7 +11,7 @@ I'm a **Cloud Infrastructure Engineer** passionate about building reliable, scal
 - 🌐 **[Portfolio Website](https://k-canzater.github.io/KCanzater/index.html)**  
   My personal portfolio hosted via GitHub Pages. Simple, clean, and focused on showcasing cloud projects.
 
-- 🛠️ **[AWS VPC Automation](https://github.com/K-Canzater/AWS-VPC-Automatio)**  
+- 🛠️ **[AWS VPC Automation](https://github.com/K-Canzater/AWS-VPC-Automation)**  
   VPC setup using Terraform including subnets, route tables, internet gateway, and more.
 
 ---
