@@ -21,7 +21,8 @@ I'm a **Cloud Infrastructure Engineer** passionate about building reliable, scal
 
 - **Cloud**: AWS (EC2, S3, IAM, VPC, CloudWatch, Lambda)  
 - **IaC**: Terraform  
-- **Automation**: GitHub Actions, Boto3  
+- **Automation**: GitHub Actions, Boto3, Jenkins
+- **Containers & Orchestration**: Docker, Kubernetes
 - **Languages**: Python, HCL  
 - **Tools**: Git, GitHub, AWS CLI, SSM  
 
