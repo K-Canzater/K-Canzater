@@ -15,6 +15,9 @@ I'm a **Cloud Infrastructure Engineer** passionate about building reliable, scal
 - 🛠️ **[AWS VPC Automation](https://github.com/K-Canzater/AWS-VPC-Automation)**  
   VPC setup using Terraform including subnets, route tables, internet gateway, and more.
 
+- 🐳 **[Docker Practice Lab](https://github.com/K-Canzater/docker-lab)**
+Hands-on Docker lab focused on AWS automation. Containerizes Python scripts using Docker to automate EC2 tasks with Boto3 and AWS CLI. Built to simulate real-world DevOps workflows, improve portability, and prep for CI/CD and Jenkins jobs.
+
 ---
 
 🔧 **Technologies I Work With**
