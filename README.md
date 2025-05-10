@@ -23,7 +23,7 @@ I'm a **Cloud Infrastructure Engineer** passionate about building reliable, scal
 - **IaC**: Terraform  
 - **Automation**: GitHub Actions, Boto3, Jenkins
 - **Containers & Orchestration**: Docker, Kubernetes
-- **Languages**: Python, HCL  
+- **Languages**: Python, HCL, Bash
 - **Tools**: Git, GitHub, AWS CLI, SSM  
 
 ---
