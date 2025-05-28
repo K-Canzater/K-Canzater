@@ -5,7 +5,7 @@ I'm a **Cloud Infrastructure Engineer** passionate about building reliable, scal
 
 ---
 
-🚀 **Featured Projects**
+##🚀 **Featured Projects**
 
 - 🔧 **[AWS Infrastructure Automation](https://github.com/K-Canzater/AWS-Infrastructure-Automation-with-Terraform-GitHub-Actions-Boto3)**  
   End-to-end AWS automation using Terraform, GitHub Actions, and Boto3. Includes VPC, EC2, IAM, S3, and automation scripts for infrastructure management.
