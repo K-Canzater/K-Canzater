@@ -27,7 +27,7 @@ I'm a **Cloud Infrastructure Engineer** passionate about building reliable, scal
 🔧 **Technologies & Tools**
 
 - **Cloud**: AWS (EC2, S3, IAM, VPC, Lambda, ALB)  
-- **IaC**: Terraform, Helm
+- **Infrastructure as Code**: Terraform, Helm
 - **Automation**: GitHub Actions, Boto3, Jenkins, ArgoCD
 - **Containers & Orchestration**: Docker, Kubernetes
 - **Monitoring & Visualization**: CloudWatch, Prometheus, Grafana
