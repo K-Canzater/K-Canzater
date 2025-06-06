@@ -30,7 +30,7 @@ I'm an **Infrastructure Automation Engineer** focused on building clean, scalabl
 
 ## 🔧 **Technologies & Tools**
 
-**Cloud:** AWS (EC2, S3, IAM, VPC, Lambda, ALB)  
+- **Cloud:** AWS (EC2, S3, IAM, VPC, Lambda, ALB)  
 **Infrastructure as Code:** Terraform, Helm  
 **Automation:** Boto3, Jenkins, GitHub Actions, ArgoCD  
 **Containers & Orchestration:** Docker, Kubernetes  
