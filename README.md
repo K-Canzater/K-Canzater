@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Khayla**!  
 
-I'm an **Infrastructure Automation Engineer** focused on building clean, scalable, and production-ready cloud environments. I specialize in automating AWS infrastructure using **Terraform, Python (Boto3), Docker, Jenkins, and CI/CD pipelines** — replacing manual tasks with secure, repeatable workflows.
+I’m a Cloud Infrastructure Engineer passionate about automating secure, scalable AWS environments using **Terraform, Python (Boto3), Docker, and CI/CD pipelines**. I focus on turning complex manual tasks into clean, repeatable infrastructure code — bridging dev and ops with real-world workflows.
 
 
 
@@ -9,14 +9,14 @@ I'm an **Infrastructure Automation Engineer** focused on building clean, scalabl
 ## 🚀 **Featured Projects**
 
 - 🔧 **[AWS Infrastructure Automation](https://github.com/K-Canzater/AWS-Infrastructure-Automation-with-Terraform-GitHub-Actions-Boto3)**  
-  Automated provisioning of VPC, EC2, IAM, and S3 using **Terraform, GitHub Actions, and Boto3** — complete with remote state and lifecycle scripts.
+  Provisioned EC2, S3, IAM, and VPC using Terraform, Boto3, and GitHub Actions. Built remote state backends and lifecycle scripts to reflect production IaC practices.  
 
 
 - 🌐 **[Portfolio Website](https://k-canzater.github.io/KCanzater/index.html)**  
-  Cloud-focused personal portfolio hosted on GitHub Pages. Designed to showcase infrastructure work, tools, and workflows.
+  Static portfolio hosted on GitHub Pages. Highlights DevOps workflows, AWS experience, and project architecture.  
 
 - 🛠️ **[AWS VPC Automation](https://github.com/K-Canzater/AWS-VPC-Automation)**  
-  Terraform configuration for custom VPC setup — includes subnets, route tables, internet gateway, and NAT gateway.
+  Custom-built VPC with subnets, NAT gateway, IGW, route tables, and security groups — fully modular and scalable.
 
 
 - 🐳 **[AWS-Infrastructure-Automation-with-Docker](https://github.com/K-Canzater/AWS-Infrastructure-Automation-with-Docker)**  
@@ -30,13 +30,19 @@ I'm an **Infrastructure Automation Engineer** focused on building clean, scalabl
 
 ## 🔧 **Technologies & Tools**
 
-- **Cloud:** AWS (EC2, S3, IAM, VPC, Lambda, ALB)  
-- **Infrastructure as Code:** Terraform, Helm  
-- **Automation:** Boto3, Jenkins, GitHub Actions, ArgoCD  
-- **Containers & Orchestration:** Docker, Kubernetes  
-- **Monitoring:** CloudWatch, Prometheus, Grafana  
-- **Languages:** Python, HCL, Bash  
-- **Tools:** Git, GitHub, AWS CLI, SSM 
+EC2 • S3 • IAM • VPC • Lambda • CloudWatch • RDS • CloudTrail • CloudFront • ECR • EKS
+
+**Infrastructure as Code & Automation:**  
+Terraform • Ansible • AWS CLI • Python (Boto3) • Bash • Jenkins • GitHub Actions • Helm • ArgoCD
+
+**Containers & Orchestration:**  
+Docker • Kubernetes • Helm
+
+**Monitoring & CI/CD:**  
+CloudWatch • Prometheus • Grafana • Jenkins • GitHub Actions
+
+**Version Control & DevOps Stack:**  
+Git • GitHub • GitOps (ArgoCD) • CI/CD • Linux • Shell Scripting
 
 ---
 
