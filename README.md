@@ -51,7 +51,9 @@ Git • GitHub • GitOps (ArgoCD) • CI/CD • Linux • Shell Scripting
 
 - 💼 [**Portfolio**](https://k-canzater.github.io/KCanzater/index.html)  
 - 📫 Email: [khayla.canzater@gmail.com](mailto:khayla.canzater@gmail.com)  
-- **💬 Open to:** **Cloud Engineer & Infrastructure Automation roles** — let’s build something great together.
+- **💬 Open to Cloud Engineer & Automation roles — building scalable, reliable cloud infrastructure.**
+
+
 
 
 
