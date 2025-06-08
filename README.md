@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm **Khayla**!  
 
-I’m a Cloud Infrastructure Engineer passionate about automating secure, scalable AWS environments using **Terraform, Python (Boto3), Docker, and CI/CD pipelines**. I focus on turning complex manual tasks into clean, repeatable infrastructure code — bridging dev and ops with real-world workflows.
+I’m a Cloud Engineer who builds secure, scalable AWS environments with **Terraform, Python (Boto3), Docker, and CI/CD pipelines.** I automate complex workflows into clean, repeatable infrastructure code to boost efficiency and reliability.
+
 
 
 
@@ -50,5 +51,6 @@ Git • GitHub • GitOps (ArgoCD) • CI/CD • Linux • Shell Scripting
 
 - 💼 [**Portfolio**](https://k-canzater.github.io/KCanzater/index.html)  
 - 📫 Email: [khayla.canzater@gmail.com](mailto:khayla.canzater@gmail.com)  
-- 💬 Open to **Cloud Engineer opportunities** — let’s build something great together.
+- **💬 Open to:** **Cloud Engineer & Infrastructure Automation roles** — let’s build something great together.
+
 
