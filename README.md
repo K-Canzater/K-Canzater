@@ -47,7 +47,7 @@ Automating cloud infrastructure that's clean, scalable, and production-ready ✨
 
 ## 🤝 **Let's Connect**
 
-- 💼 Portfolio: [View my complete projects & cloud engineering journey] (https://k-canzater.github.io/KCanzater/index.html)
+- 💼 Portfolio: [View my complete projects & cloud engineering journey](https://k-canzater.github.io/KCanzater/index.html)
 - 📫 Email: [khayla.canzater@gmail.com](mailto:khayla.canzater@gmail.com)  
 - **💬 Open to Cloud Engineer & Automation roles — building scalable, reliable cloud infrastructure.**
 
