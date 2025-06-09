@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm **Khayla**!  
 
-I’m a Cloud Engineer who builds secure, scalable AWS environments with **Terraform, Python (Boto3), Docker, and CI/CD pipelines.** I automate complex workflows into clean, repeatable infrastructure code to boost efficiency and reliability.
+I’m a Cloud Engineer who builds scalable, secure AWS infrastructure using Terraform, Python (Boto3), and Docker. I automate cloud workflows into clean, repeatable code with CI/CD pipelines — so everything runs smoother, faster, and with fewer headaches.
+
+
 
 
 
