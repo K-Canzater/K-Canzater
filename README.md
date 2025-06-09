@@ -32,8 +32,8 @@ I’m a Cloud Engineer who builds secure, scalable AWS environments with **Terra
 ## 🔧 **Technologies & Tools**
 
 ☁️ **Cloud Architecture & Services**  
-**Core Stack:** EC2 • S3 • VPC • IAM • RDS • CloudWatch  
-**Advanced Services:** Lambda • EKS • ECR • CloudTrail • CloudFront  • Key Management Service (KMS)
+-- **Core Stack:** EC2 • S3 • VPC • IAM • RDS • CloudWatch  
+-- **Advanced Services:** Lambda • EKS • ECR • CloudTrail • CloudFront  • Key Management Service (KMS)
 
 🏗️ **Infrastructure as Code & Automation**  
 **IaC Powerhouse:** Terraform • Ansible • AWS CLI  
