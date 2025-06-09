@@ -31,19 +31,28 @@ I’m a Cloud Engineer who builds secure, scalable AWS environments with **Terra
 
 ## 🔧 **Technologies & Tools**
 
-EC2 • S3 • IAM • VPC • Lambda • CloudWatch • RDS • CloudTrail • CloudFront • ECR • EKS
+☁️ **Cloud Architecture & Services**  
+**Core Stack:** EC2 • S3 • VPC • IAM • RDS • CloudWatch  
+**Advanced Services:** Lambda • EKS • ECR • CloudTrail • CloudFront  • Key Management Service (KMS)
 
-**Infrastructure as Code & Automation:**  
-Terraform • Ansible • AWS CLI • Python (Boto3) • Bash • Jenkins • GitHub Actions • Helm • ArgoCD
+🏗️ **Infrastructure as Code & Automation**  
+**IaC Powerhouse:** Terraform • Ansible • AWS CLI  
+**Scripting Arsenal:** Python (Boto3) • Bash • Shell Scripting  
+**CI/CD Magic:** Jenkins • GitHub Actions • ArgoCD
 
-**Containers & Orchestration:**  
-Docker • Kubernetes • Helm
+🐳 **Containers & Orchestration**  
+**Container Ecosystem:** Docker • Kubernetes • Helm • ECR
 
-**Monitoring & CI/CD:**  
-CloudWatch • Prometheus • Grafana • Jenkins • GitHub Actions
+📊 **Monitoring & Observability**  
+**Monitoring Stack:** CloudWatch • Prometheus • Grafana
 
-**Version Control & DevOps Stack:**  
-Git • GitHub • GitOps (ArgoCD) • CI/CD • Linux • Shell Scripting
+🔄 **DevOps & Version Control**  
+**Version Control:** Git • GitHub  
+**DevOps Philosophy:** GitOps (ArgoCD) • CI/CD • Linux Administration
+
+**⚡ Automating cloud infrastructure that’s clean, scalable, and production-ready.**
+
+
 
 ---
 
