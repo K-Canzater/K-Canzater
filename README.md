@@ -31,7 +31,7 @@ I’m a Cloud Engineer who builds secure, scalable AWS environments with **Terra
 
 ## 🔧 **Technologies & Tools**
 
-- **☁️ AWS Cloud:** EC2 • S3 • VPC • IAM • Lambda • EKS • RDS • CloudWatch
+- **☁️ AWS Cloud:** EC2 • S3 • VPC • IAM • Lambda • EKS • RDS • CloudWatch • Key Management Service (KMS)
 - **🏗️ Infrastructure:** Terraform • Ansible • Python (Boto3) • AWS CLI
 - **🐳 Containers:** Docker • Kubernetes • Helm
 - **📊 CI/CD & Monitoring:** Jenkins • GitHub Actions • ArgoCD • Prometheus • Grafana
