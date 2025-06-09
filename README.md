@@ -39,7 +39,6 @@ I’m a Cloud Engineer who builds scalable, secure AWS infrastructure using Terr
 - **📊 CI/CD & Monitoring:** Jenkins • GitHub Actions • ArgoCD • Prometheus • Grafana
 - **💻 DevOps Stack:** Git • Linux • Bash • Shell Scripting
 
-Automating cloud infrastructure that's clean, scalable, and production-ready ✨
 
 
 
