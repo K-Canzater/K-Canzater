@@ -47,7 +47,7 @@ I’m a Cloud Engineer who builds scalable, secure AWS infrastructure using Terr
 
 - 💼 Portfolio: [View my complete projects & cloud engineering journey](https://k-canzater.github.io/KCanzater/index.html)
 - 📫 Email: [Open for opportunities](mailto:khayla.canzater@gmail.com)  
-- **💬 Open to Cloud Engineer & Automation roles — building scalable, reliable cloud infrastructure.**
+- **💬 Quality Engineer, Test Automation, and Cloud Infrastructure roles — building reliable, scalable systems with comprehensive testing and validation.**
 
 
 
