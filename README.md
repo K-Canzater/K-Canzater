@@ -31,14 +31,13 @@ I’m a Cloud Engineer who builds scalable, secure AWS infrastructure using Terr
 
 ---
 
-## 🔧 **Technologies & Tools**
+## 🔧 Technologies & Tools
 
-- **☁️ AWS Cloud:** EC2 • S3 • VPC • IAM • Lambda • EKS • RDS • CloudWatch • Key Management Service (KMS)
-- **🏗️ Infrastructure:** Terraform • Ansible • Python (Boto3) • AWS CLI
-- **🐳 Containers:** Docker • Kubernetes • Helm
-- **📊 CI/CD & Monitoring:** Jenkins • GitHub Actions • ArgoCD • Prometheus • Grafana
-- **💻 DevOps Stack:** Git • Linux • Bash • Shell Scripting
-
+- **🧪 Testing & Quality Assurance:** Manual Testing • Test Cases & Documentation • Selenium WebDriver • API Testing (Postman) • Bug Tracking (JIRA, TestRail, Zephyr)
+- **☁️ AWS Cloud:** EC2 • S3 • VPC • IAM • Lambda • RDS • CloudWatch • Key Management Service (KMS)
+- **🏗️ Infrastructure & Automation:** Terraform • Python (Boto3) • AWS CLI • Docker • Python Scripting
+- **📊 CI/CD & DevOps:** Jenkins • GitHub Actions • CI/CD Pipelines
+- **💻 Core Technologies:** Git • Linux • Bash • Shell Scripting
 
 
 
