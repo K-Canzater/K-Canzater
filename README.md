@@ -11,6 +11,7 @@ I'm a Quality Assurance Analyst who brings a unique blend of software testing ex
 ## 🚀 **Featured Projects**
 
 - 🧪 **[selenium-login-tests](https://github.com/K-Canzater/selenium-login-tests)**
+
   Automated login validation system using Selenium WebDriver and Python. Built comprehensive test scenarios for authentication workflows including positive/negative testing, error handling, and edge case validation.
 
 - 🔧 **[AWS Infrastructure Automation](https://github.com/K-Canzater/AWS-Infrastructure-Automation-with-Terraform-GitHub-Actions-Boto3)**  
