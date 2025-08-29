@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm **Khayla**!  
 
-I’m a Cloud Engineer who builds scalable, secure AWS infrastructure using Terraform, Python (Boto3), and Docker. I automate cloud workflows into clean, repeatable code with CI/CD pipelines — so everything runs smoother, faster, and with fewer headaches.
-
+I'm a Quality Assurance Analyst who brings a unique blend of software testing expertise and cloud infrastructure knowledge to ensure excellence across the entire technology stack. With experience in manual testing, automation, and AWS environments, I create comprehensive testing strategies that catch issues before they reach production.
 
 
 
@@ -11,19 +10,19 @@ I’m a Cloud Engineer who builds scalable, secure AWS infrastructure using Terr
 
 ## 🚀 **Featured Projects**
 
+- 🧪 **[selenium-login-tests](https://github.com/K-Canzater/selenium-login-tests)**
+  Automated login validation system using Selenium WebDriver and Python. Built comprehensive test scenarios for authentication workflows including positive/negative testing, error handling, and edge case validation.
+
 - 🔧 **[AWS Infrastructure Automation](https://github.com/K-Canzater/AWS-Infrastructure-Automation-with-Terraform-GitHub-Actions-Boto3)**  
-  Provisioned EC2, S3, IAM, and VPC using Terraform, Boto3, and GitHub Actions. Built remote state backends and lifecycle scripts to reflect production IaC practices.  
-
-
-- 🌐 **[Portfolio Website](https://k-canzater.github.io/KCanzater/index.html)**  
-  Static portfolio hosted on GitHub Pages. Highlights DevOps workflows, AWS experience, and project architecture.  
+  Built comprehensive test automation frameworks for AWS environments (EC2, S3, IAM, VPC) using Python and Terraform. Implemented validation workflows and monitoring systems to ensure infrastructure reliability and catch configuration issues before deployment. 
+ 
 
 - 🛠️ **[AWS VPC Automation](https://github.com/K-Canzater/AWS-VPC-Automation)**  
-  Custom-built VPC with subnets, NAT gateway, IGW, route tables, and security groups — fully modular and scalable.
+  Designed and tested custom AWS VPC architecture with automated validation for network security, routing functionality, and infrastructure compliance using Python automation scripts.
 
 
 - 🐳 **[AWS-Infrastructure-Automation-with-Docker](https://github.com/K-Canzater/AWS-Infrastructure-Automation-with-Docker)**  
-  Containerized Python tools to automate EC2 lifecycles using **Boto3 and AWS CLI**. Built to simulate real DevOps use cases and integrate with Jenkins pipelines.
+  Built Dockerized Python testing tools for infrastructure validation and quality assurance workflows. Designed for seamless CI/CD integration and scalable testing processes.
 
 
 
@@ -41,13 +40,7 @@ I’m a Cloud Engineer who builds scalable, secure AWS infrastructure using Terr
 
 
 
----
 
-## 🤝 **Let's Connect**
-
-- 💼 Portfolio: [View my complete projects & cloud engineering journey](https://k-canzater.github.io/KCanzater/index.html)
-- 📫 Email: [Open for opportunities](mailto:khayla.canzater@gmail.com)  
-- **💬 Quality Engineer, Test Automation, and Cloud Infrastructure roles — building reliable, scalable systems with comprehensive testing and validation.**
 
 
 
