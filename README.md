@@ -43,8 +43,7 @@ I'm a recent Management Information Systems graduate building a career in softwa
 
 I'm always open to discussing QA, testing strategies, or new opportunities.
 
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **Email:** [Your Email Address]
+*   **LinkedIn:**[My Portfolio Website](https://www.linkedin.com/in/khayla-canzater/)
 
 
 
