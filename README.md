@@ -1,52 +1,46 @@
-## 👋 Hi, I'm **Khayla**!  
-
-Data-focused professional with a background in cloud infrastructure automation. I leverage tools like Python, SQL, Terraform, and AWS to build robust systems, automate processes, and transform data into actionable insights. Passionate about the entire stack, from the infrastructure up.
+## 👋 Hello, I'm **Khayla**!  
 
 
 
+**QA Analyst | Manual Testing & Test Automation Foundations | SQL & Python**
 
-
-
----
-
-## 🚀 **Featured Projects**
-
-
-- 🔧 **[AWS Infrastructure as Code (IaC)](https://github.com/K-Canzater/AWS-Infrastructure-Automation-with-Terraform-GitHub-Actions-Boto3)**  
-
-  Designed and deployed secure, scalable AWS environments (EC2, S3, IAM, VPC) using Terraform. This project demonstrates expertise in infrastructure as code, cloud architecture, and automated provisioning.
-
- 
-
-- 🛠️ **[AWS Network Architecture & Automation](https://github.com/K-Canzater/AWS-VPC-Automation)**  
-
-  Engineered a custom AWS VPC architecture with a focus on security and compliance. Implemented Python scripts for network validation and infrastructure auditing, showcasing skills in cloud networking and automation.
-
-
-- 🐳 **[Containerized Infrastructure Tools](https://github.com/K-Canzater/AWS-Infrastructure-Automation-with-Docker)**  
-
-  Built Dockerized Python applications for infrastructure management and validation. Designed for seamless integration into CI/CD pipelines, demonstrating containerization and DevOps principles.
-
-
-
-
-
-
+I'm a recent Management Information Systems graduate building a career in software quality assurance. I leverage my technical foundation to not just find bugs, but to understand their root cause in business logic and system architecture. I'm actively seeking a remote QA role where I can apply my skills in test case design, API testing, and defect tracking to help teams ship reliable products.
 
 ---
 
-## 🔧 Technologies & Tools
+### 🧰 Technical Toolkit
 
-- **📊 Data Analysis & Visualization:** SQL • Python • Pandas • Tableau • Excel • Statistics
-- **☁️ Cloud & Infrastructure:** AWS (EC2, S3, IAM, VPC, CloudWatch) • Terraform • Infrastructure as Code (IaC) • Docker
-- **💻 Programming & Automation:** Python (Boto3, Scripting) • Git • API Development • Linux • Bash/Shell Scripting
-- **🔄 CI/CD & DevOps:** GitHub Actions • Jenkins • CI/CD Pipelines
+**Testing & QA:** Manual Testing, Test Case Design, Bug Tracking & Reporting, API Testing (Postman), Cross-Browser Testing, Jira, Zephyr
+**Test Automation:** Selenium, Playwright, Python
+**Languages & Databases:** SQL
+**Systems & Concepts:** Agile/Scrum, SDLC, Git, AWS, CI/CD
 
+### 🔬 Featured Projects
 
+**🛒 E-Commerce Functionality Testing** *(In Progress)*
+*   Authoring and executing test cases for core user flows on a live e-commerce platform.
+*   Identifying, documenting, and tracking bugs in a simulated Jira environment.
+*   Performing cross-browser compatibility testing to ensure a consistent user experience.
 
+**🌐 API Testing & Validation Suite**
+*   Developing a collection of API tests in Postman to verify data integrity and endpoint functionality.
+*   Crafting validation scripts to ensure response accuracy and performance.
 
+**☁️ Infrastructure for Application Reliability** *(Past Project)*
+*   Previously built automated cloud environments to deepen my understanding of the systems that software runs on, directly informing my approach to integration and environment-level testing.
 
+---
 
+### 📈 GitHub Stats
+
+[Your GitHub Stats Graph] - *You can add this later with a service like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+### 📫 Let's Connect
+
+I'm always open to discussing QA, testing strategies, or new opportunities.
+
+*   **LinkedIn:** [Your LinkedIn Profile URL]
+*   **Email:** [Your Email Address]
 
 
 
