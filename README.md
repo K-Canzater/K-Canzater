@@ -11,8 +11,11 @@ I'm a recent Management Information Systems graduate building a career in softwa
 ### 🧰 Technical Toolkit
 
 **Testing & QA:** Manual Testing, Test Case Design, Bug Tracking & Reporting, API Testing (Postman), Cross-Browser Testing, Jira, Zephyr
+
 **Test Automation:** Selenium, Playwright, Python
+
 **Languages & Databases:** SQL
+
 **Systems & Concepts:** Agile/Scrum, SDLC, Git, AWS, CI/CD
 
 ### 🔬 Featured Projects
