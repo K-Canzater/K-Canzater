@@ -35,9 +35,6 @@ I'm a recent Management Information Systems graduate building a career in softwa
 
 ---
 
-### 📈 GitHub Stats
-
-[Your GitHub Stats Graph] - *You can add this later with a service like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ### 📫 Let's Connect
 
