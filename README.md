@@ -8,7 +8,7 @@ I'm a recent Management Information Systems graduate building a career in softwa
 
 ---
 
-### 🧰 Technical Toolkit
+### 🔧 Technical Skills
 
 * **Testing & QA:** Manual Testing, Test Case Design, Bug Tracking & Reporting, API Testing (Postman), Cross-Browser Testing, Jira, Zephyr
 
@@ -21,12 +21,14 @@ I'm a recent Management Information Systems graduate building a career in softwa
 
 ---
 
-### 🔬 Featured Projects
+### 🚀 Featured Projects
 
-**🛒 E-Commerce Functionality Testing** *(In Progress)*
-*   Authoring and executing test cases for core user flows on a live e-commerce platform.
-*   Identifying, documenting, and tracking bugs in a simulated Jira environment.
-*   Performing cross-browser compatibility testing to ensure a consistent user experience.
+## 🛒 E-Commerce Functionality Testing
+A comprehensive test suite for critical user journeys on a live web application.
+*  ** Authored 15+ detailed test cases**  for core functionalities including login authentication, shopping cart management, and checkout flows.
+* ** Executed end-to-end manual testing,** identifying and reporting 5+ critical UI and functional defects with clear steps to reproduce.
+* • Performed cross-browser testing on Chrome and Firefox to ensure a consistent user experience.
+* • Tools: Jira (simulated), Browser DevTools
 
 **🌐 API Testing & Validation Suite**
 *   Developing a collection of API tests in Postman to verify data integrity and endpoint functionality.
