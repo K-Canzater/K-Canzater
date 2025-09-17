@@ -25,8 +25,8 @@ I'm a recent Management Information Systems graduate building a career in softwa
 
 ## 🛒 E-Commerce Functionality Testing
 A comprehensive test suite for critical user journeys on a live web application.
-*  ** Authored 15+ detailed test cases**  for core functionalities including login authentication, shopping cart management, and checkout flows.
-* ** Executed end-to-end manual testing,** identifying and reporting 5+ critical UI and functional defects with clear steps to reproduce.
+*  Authored 15+ detailed test cases for core functionalities including login authentication, shopping cart management, and checkout flows.
+* Executed end-to-end manual testing, identifying and reporting 5+ critical UI and functional defects with clear steps to reproduce.
 * • Performed cross-browser testing on Chrome and Firefox to ensure a consistent user experience.
 * • Tools: Jira (simulated), Browser DevTools
 
