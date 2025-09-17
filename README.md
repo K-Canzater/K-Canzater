@@ -21,7 +21,7 @@ I'm a recent Management Information Systems graduate building a career in softwa
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ## 🛒 E-Commerce Functionality Testing
 A comprehensive test suite for critical user journeys on a live web application.
