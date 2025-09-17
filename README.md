@@ -18,7 +18,7 @@ I'm a recent Management Information Systems graduate building a career in softwa
 
 * **Systems & Concepts:** Agile/Scrum, SDLC, Git, AWS, CI/CD
 
-**
+
 ---
 
 ### 🚀 Featured Projects
