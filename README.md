@@ -11,11 +11,8 @@ I'm a recent Management Information Systems graduate building a career in softwa
 ### 🔧 Technical Skills
 
 * **Testing & QA:** Manual Testing, Test Case Design, Bug Tracking & Reporting, API Testing (Postman), Cross-Browser Testing, Jira, Zephyr
-
 * **Test Automation:** Selenium, Playwright, Python
-
 * **Languages & Databases:** SQL
-
 * **Systems & Concepts:** Agile/Scrum, SDLC, Git, AWS, CI/CD
 
 
@@ -23,26 +20,25 @@ I'm a recent Management Information Systems graduate building a career in softwa
 
 ## 🚀 Featured Projects
 
-## 🛒 E-Commerce Functionality Testing
-A comprehensive test suite for critical user journeys on a live web application.
-*  **Authored 15+ detailed test cases** for core functionalities including login authentication, shopping cart management, and checkout flows.
-* **Executed end-to-end manual testing**, identifying and reporting **5+ critical UI and functional defects** with clear steps to reproduce.
-* **Performed cross-browser testing** on Chrome and Firefox to ensure a consistent user experience.
-* **Tools:** Jira (simulated), Browser DevTools
+## 🛒 E-Commerce Functionality Testing  (Playwright)
+A practical automation framework for validating critical user flows on the Saucedemo website.
+* **Engineered** a maintainable test suite using the **Page Object Model (POM)** to validate login authentication and shopping cart functionality.
+* **Developed** reliable automated scripts with explicit assertions to **verify UI elements, URLs, and data integrity.**
+* **Leveraged Playwright** to create stable, fast, and repeatable smoke tests.
+* **Tools:** Playwright, Python
 
 
 ## 🌐 API Testing & Validation Suite
 A collection of scripts demonstrating core API testing fundamentals against the JSONPlaceholder API.
-* Developed and executed Python scripts to perform GET, POST, PUT, and DELETE requests, covering all CRUD operations.
-* Validated HTTP status codes and response structures to ensure endpoint reliability and data consistency.
-* Tools: Python, Requests library
+* **Developed and executed** Python scripts to perform **GET, POST, PUT, and DELETE** requests, covering all **CRUD operations.**
+* **Validated HTTP status codes** and response structures to ensure endpoint reliability and data consistency.
+* **Tools: Python, Requests** library
 
 
-## 🤖 UI Automation with Playwright
-Automating smoke tests for rapid feedback on core user flows.
-* **Engineered automated test scripts** in Playwright to validate login functionality and cart interactions, **reducing repetitive manual verification.**
-* **Focused on creating reliable, maintainable code** with clear assertions and selectors.
-* **Tools:** Playwright, Python/JavaScript
+## 📋 Manual Test Case Design
+The foundation for automation: detailed manual test cases.
+* **Authored** clear and structured test cases for core user journeys, providing the blueprint for automation development.
+* **Tools:** Excel/Google Sheets
 
 ---
 
