@@ -32,10 +32,10 @@ A comprehensive test suite for critical user journeys on a live web application.
 
 
 ## 🌐 API Testing & Validation Suite
-A Postman collection to verify backend functionality and data integrity.
-* **Developed 10+ API test scripts** for RESTful endpoints using GET and POST methods.
-* **Crafted validation scripts** to verify HTTP status codes, response bodies, and data accuracy.
-* **Tools:** Postman, JavaScript (for test scripts)
+A collection of scripts demonstrating core API testing fundamentals against the JSONPlaceholder API.
+* Developed and executed Python scripts to perform GET, POST, PUT, and DELETE requests, covering all CRUD operations.
+* Validated HTTP status codes and response structures to ensure endpoint reliability and data consistency.
+* Tools: Python, Requests library
 
 
 ## 🤖 UI Automation with Playwright
